@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1574591089 source:c:\users\sakif\desktop\checkers\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<dos.h>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+
